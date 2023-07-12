@@ -1,0 +1,19 @@
+.fraseContainer {
+  background-color: #efefef;
+  border: 2px solid #a09a9a;
+  padding: 15px;
+  border-radius: 5px;
+  width: 70%;
+  text-align: center;
+}
+
+.container {
+  display: Flex;
+  justify-content: center;
+}
+
+.fraseContainer:hover {
+  background-color: #a09a9a;
+  transition: all 0.5s ease;
+  color: White;
+}
