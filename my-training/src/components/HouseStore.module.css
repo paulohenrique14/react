@@ -1,0 +1,16 @@
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container img {
+  width: 450px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.container ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
